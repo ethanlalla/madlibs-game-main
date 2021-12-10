@@ -45,4 +45,4 @@ var random = Math.floor(Math.random() * bodyParts.length);
   bodyPartsArray[i].textContent = bodyParts[random];
  }
 
- LKIUYGFDFGYUI
+ 
