@@ -66,4 +66,3 @@ var getWord = function(type) {
     return bodyParts[random];
   }
 }
-//Part 2: Write a function which allows the substitution of words based on a random selection from an array. The function should be called 'getWord' and its parameter should be 'type'. Based on the type passed (that matches one of the six word classes), a random word should be returned from the appropriate array of words. Use this function to update the NodeLists looped through in Part 1
